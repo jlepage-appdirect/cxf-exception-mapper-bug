@@ -1,0 +1,1 @@
+# cxf-exception-mapper-bug
